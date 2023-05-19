@@ -1,0 +1,5 @@
+This
+Text
+Should
+Be
+Inversed
